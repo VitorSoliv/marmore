@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Marmore Or√ßamento"
 
 
 Var
@@ -11,7 +11,7 @@ Var
 
 Inicio
 
-      escreval("Qual material Gostaria de orÁar: ")
+      escreval("Qual material Gostaria de or√ßar: ")
 
       escreval("(1) branco prime           (4) verde ubatuba")
       escreval("(2) branco itaunas         (5) preto sao gabriel")
@@ -63,7 +63,7 @@ Inicio
       fimse
       escreval
 
-      escreva ("Cliente vai querer istalaÁao do produto ?: ")
+      escreva ("Cliente vai querer istala√ßao do produto ?: ")
       leia (instalacao)
       se instalacao = "sim" entao
          soma <- soma + 150
